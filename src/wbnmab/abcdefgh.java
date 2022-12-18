@@ -6,7 +6,6 @@ public class abcdefgh
 	{
 	System.out.println("ss");
 	System.out.println("sdndfg");
-	System.out.println("abcde");
 	}
 
 }
